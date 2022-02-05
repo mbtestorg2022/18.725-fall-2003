@@ -4,24 +4,293 @@ title: Calendar
 uid: d7d0c2c0-ff76-6dc5-1739-2ab1b7c3f503
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction  {{< br >}}  {{< br >}}First Goal |  |
-| 2 | Recap of Last Time  {{< br >}}  {{< br >}}Irreducible Components  {{< br >}}  {{< br >}}Projective Space |  |
-| 3 | Projective Space (cont.) | Problem set 1 due |
-| 4 | Projective Space (cont.)  {{< br >}}  {{< br >}}Topological Diversion  {{< br >}}  {{< br >}}Sheaves |  |
-| 5 | Presheaves  {{< br >}}  {{< br >}}Back to Algebraic Geometry | Problem set 2 due |
-| 6 | Review of things not covered enough (Topics: Fibers, Morphisms of Sheaves)  {{< br >}}  {{< br >}}Back to Work  {{< br >}}  {{< br >}}Morphisms  {{< br >}}  {{< br >}}Varieties | Problem set 3 due |
-| 7 | Homework Review  {{< br >}}  {{< br >}}Back to Varieties |  |
-| 8 | Projective Varieties |  |
-| 9 | A Review on Projective Varieties  {{< br >}}  {{< br >}}Product of Varieties | Problem set 4 due |
-| 10 | Applications |  |
-| 11 | Recap on the Applications  {{< br >}}  {{< br >}}Next Definition of Variety  {{< br >}}  {{< br >}}Dimension | Problem set 5 due |
-| 12 | Homework 5 Problem  {{< br >}}  {{< br >}}Dimension  {{< br >}}  {{< br >}}Future Applications |  |
-| 13 | Back to Dimension  {{< br >}}  {{< br >}}Krull Dimension | Problem set 6 due |
-| 14 | Fibers of Morphisms |  |
-| 15 | Fiber Products  {{< br >}}  {{< br >}}Back to the Theorem  {{< br >}}  {{< br >}}Complete Varities | Problem set 7 due |
-| 16 | Completeness  {{< br >}}  {{< br >}}Complex Topology |  |
-| 17 | Chow's Lemma  {{< br >}}  {{< br >}}Analytic Spaces | Problem set 8 due |
-| 18 | Curves | Problem set 9 due |
-| 19 | What is Next?  {{< br >}}  {{< br >}}How to Study Curves | Problem set 10 due (8 days after Lecture #19)  {{< br >}}  {{< br >}}Final Take-home Exam due (16 days after Lecture #19)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction  
+  
+First Goal
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Recap of Last Time  
+  
+Irreducible Components  
+  
+Projective Space
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Projective Space (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Projective Space (cont.)  
+  
+Topological Diversion  
+  
+Sheaves
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Presheaves  
+  
+Back to Algebraic Geometry
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Review of things not covered enough (Topics: Fibers, Morphisms of Sheaves)  
+  
+Back to Work  
+  
+Morphisms  
+  
+Varieties
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Homework Review  
+  
+Back to Varieties
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Projective Varieties
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+A Review on Projective Varieties  
+  
+Product of Varieties
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Applications
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Recap on the Applications  
+  
+Next Definition of Variety  
+  
+Dimension
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 Problem  
+  
+Dimension  
+  
+Future Applications
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Back to Dimension  
+  
+Krull Dimension
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Fibers of Morphisms
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Fiber Products  
+  
+Back to the Theorem  
+  
+Complete Varities
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Completeness  
+  
+Complex Topology
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Chow's Lemma  
+  
+Analytic Spaces
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Curves
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+What is Next?  
+  
+How to Study Curves
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due (8 days after Lecture #19)  
+  
+Final Take-home Exam due (16 days after Lecture #19)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
